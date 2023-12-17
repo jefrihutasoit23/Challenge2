@@ -1,0 +1,22 @@
+------------------------
+BinarFud
+------------------------
+
+Terimakasih sudah memesan
+di BinarFud
+
+Menu                  Qty     Subtotal
+----------------------------------------
+Nasi Goreng             3         45,000
+Mie Goreng              5         65,000
+Es Jeruk                4         60,000
+---------------------------------------+
+Total           			      170,000
+
+
+Pembayaran : BinarCash
+
+------------------------
+Simpan struk ini sebagai
+bukti pembayaran
+------------------------
